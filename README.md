@@ -6,6 +6,12 @@ Welcome to the StakingDapp project! This repository contains instructions for in
 
 The StakingDapp is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration.
 
+## Access the DApp
+
+You can access the staking DApp at the following link:
+
+[Staking DApp](https://superlative-bavarois-d5991c.netlify.app/)
+
 ### Key Tokens
 
 - **Stake Token:** This ERC20 token is used for staking within the DApp. Users need to approve this token for the staking contract before staking.
